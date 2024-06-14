@@ -2,7 +2,7 @@
 
 **Project Description:**
 
-In this project, I developed a comprehensive data extraction and transformation pipeline using Python. The objective was to scrape data from the Wikipedia page titled "List of largest companies in the United States by revenue," and transform the data into a structured format for further analysis. The key components of the project include web scraping and data transformation.
+In this project, I developed a comprehensive data extraction and transformation pipeline using Python. The objective was to scrape data from the Wikipedia page titled "List of largest companies in the United States by revenue," and transform the data into a structured format for further analysis. The key components of the project include web scraping, data transformation, and data storage.
 
 **Technologies and Tools Used:**
 
@@ -21,12 +21,16 @@ In this project, I developed a comprehensive data extraction and transformation 
    - Cleaned and preprocessed the data to ensure consistency and accuracy. This included handling missing values, correcting data types, and renaming columns for clarity.
    - Transformed the data into a Pandas DataFrame, which is a powerful data structure for data manipulation and analysis.
 
+3. **Data Storage:**
+   - Saved the transformed data into a CSV file (Excel format) using Pandas' built-in functionality. This facilitated easy sharing and future use of the data in various applications.
+
 **Key Achievements:**
 
 - Successfully automated the process of extracting and transforming web data into a structured format.
 - Demonstrated proficiency in using Beautiful Soup and Requests for web scraping.
 - Utilized Python Pandas to effectively manipulate and organize the data.
+- Ensured the data's accessibility and usability by saving it in a widely-used CSV format.
 
 **Outcome:**
 
-This project showcases my ability to perform web scraping and data transformation using Python. It highlights my skills in working with real-world data, handling web content, and utilizing powerful data manipulation libraries to prepare data for further analysis.
+This project showcases my ability to perform web scraping, data transformation, and data storage using Python. It highlights my skills in working with real-world data, handling web content, and utilizing powerful data manipulation libraries to prepare and store data for further analysis and usage.
